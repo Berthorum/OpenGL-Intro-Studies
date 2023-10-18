@@ -3,7 +3,7 @@
 Repositório dedicado aos estudos introdutórios sobre OpenGL, a partir da playlist [OpenGL with C++](https://youtube.com/playlist?list=PLn3eTxaOtL2PHxN8EHf-ktAcN-sGETKfw&si=xTs74DpAEFQs4vYK) do canal no Youtube [GetIntoGameDev](https://www.youtube.com/@GetIntoGameDev) e alguns artigos contidos no site [Learn OpenGL](https://learnopengl.com/)
 
 
-#####Observações:
+### Observações:
 Os estudos estão sendo realizados utilizando o VSCode como editor de código e as extensões [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake) e  [CMakeTools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools) para build do projeto. Portanto é necessário configurar o projeto com essas extensões para realizar o build e execução.
 
 Para usuários do Sistema Operacional Windows, ao realizar o primeiro build do projeto é necessário inserir manualmente o arquivo glfw.lib, contido dentro da pasta "glfwLibForWindowsBuild" do projeto, na pasta build gerada, pois o programa é executado dentro do contexto dessa pasta.
