@@ -1,5 +1,7 @@
-#version 330 core
+#version 330 core // Seta o profile e versão do OpenGL
 
+
+// Define as entradas e saídas do shader de vértice
 layout (location=0) in vec3 vertexPos;
 layout (location=1) in vec3 vertexColor;
 

@@ -1,5 +1,6 @@
-#version 330 core
+#version 330 core // Seta o profile e versão do OpenGL
 
+// Define as entradas e saídas do shader de fragmento
 in vec3 fragmentColor;
 
 out vec4 screenColor;
